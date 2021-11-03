@@ -1,2 +1,1 @@
-# -y-l-m-t-b-m-t
-Bấm vô đi rồi biết
+#Bấm vô đi rồi biết
